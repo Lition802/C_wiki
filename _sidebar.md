@@ -1,3 +1,8 @@
 [1.C语言概述](/subpages/01.md)
 [2.数据类型](/subpages/02.md)
 [3.C语言基础知识](/subpages/03.md)
+[4.运算符和表达式](/subpages/04.md)
+[5.选择结构](/subpages/05.md)
+[6.循环结构](/subpages/06.md)
+[7.循环结构的嵌套](/subpages/07.md)
+[8.数组](/subpages/08.md)
